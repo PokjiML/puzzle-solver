@@ -9,3 +9,6 @@ BF Matcher for keypoints matching between images
 Voting for the cell with highest number of matches  
 
 Made using OpenCV
+
+
+![Puzzle match](puzzle_match.png "Puzzle match")
